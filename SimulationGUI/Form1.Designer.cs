@@ -46,8 +46,9 @@ namespace SimulationGUI
             | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxSubscribe.Location = new System.Drawing.Point(12, 12);
             this.textBoxSubscribe.Name = "textBoxSubscribe";
+            this.textBoxSubscribe.PlaceholderText = "Click on Instruments to see the available tickers ";
             this.textBoxSubscribe.Size = new System.Drawing.Size(576, 27);
-            this.textBoxSubscribe.TabIndex = 0;
+            this.textBoxSubscribe.TabIndex = 6;
             this.textBoxSubscribe.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxSubscribe_KeyPress);
             // 
             // buttonSubscribe
@@ -67,7 +68,7 @@ namespace SimulationGUI
             this.buttonStart.Location = new System.Drawing.Point(12, 409);
             this.buttonStart.Name = "buttonStart";
             this.buttonStart.Size = new System.Drawing.Size(94, 29);
-            this.buttonStart.TabIndex = 3;
+            this.buttonStart.TabIndex = 2;
             this.buttonStart.Text = "Start";
             this.buttonStart.UseVisualStyleBackColor = true;
             this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
@@ -78,7 +79,7 @@ namespace SimulationGUI
             this.buttonStop.Location = new System.Drawing.Point(112, 409);
             this.buttonStop.Name = "buttonStop";
             this.buttonStop.Size = new System.Drawing.Size(94, 29);
-            this.buttonStop.TabIndex = 4;
+            this.buttonStop.TabIndex = 3;
             this.buttonStop.Text = "Stop";
             this.buttonStop.UseVisualStyleBackColor = true;
             this.buttonStop.Click += new System.EventHandler(this.buttonStop_Click);
@@ -89,7 +90,7 @@ namespace SimulationGUI
             this.buttonUnsubscribe.Location = new System.Drawing.Point(685, 409);
             this.buttonUnsubscribe.Name = "buttonUnsubscribe";
             this.buttonUnsubscribe.Size = new System.Drawing.Size(103, 29);
-            this.buttonUnsubscribe.TabIndex = 5;
+            this.buttonUnsubscribe.TabIndex = 4;
             this.buttonUnsubscribe.Text = "Unsubscribe";
             this.buttonUnsubscribe.UseVisualStyleBackColor = true;
             this.buttonUnsubscribe.Click += new System.EventHandler(this.buttonUnsubscribe_Click);
@@ -111,7 +112,7 @@ namespace SimulationGUI
             this.dataGridViewSubscriptions.RowHeadersWidth = 51;
             this.dataGridViewSubscriptions.RowTemplate.Height = 29;
             this.dataGridViewSubscriptions.Size = new System.Drawing.Size(776, 358);
-            this.dataGridViewSubscriptions.TabIndex = 6;
+            this.dataGridViewSubscriptions.TabIndex = 5;
             // 
             // Checked
             // 
@@ -127,7 +128,7 @@ namespace SimulationGUI
             this.buttonInstruments.Location = new System.Drawing.Point(594, 10);
             this.buttonInstruments.Name = "buttonInstruments";
             this.buttonInstruments.Size = new System.Drawing.Size(94, 29);
-            this.buttonInstruments.TabIndex = 7;
+            this.buttonInstruments.TabIndex = 0;
             this.buttonInstruments.Text = "Instruments";
             this.buttonInstruments.UseVisualStyleBackColor = true;
             this.buttonInstruments.Click += new System.EventHandler(this.buttonInstruments_Click);
