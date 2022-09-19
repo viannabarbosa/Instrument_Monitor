@@ -1,0 +1,14 @@
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.exe
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.deps.json
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.runtimeconfig.json
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.runtimeconfig.dev.json
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.dll
+C:\ICE\InstrumentMonitor\SimulationEngine\bin\Debug\netcoreapp3.1\SimulationEngine.pdb
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.csproj.AssemblyReference.cache
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.AssemblyInfoInputs.cache
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.AssemblyInfo.cs
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.csproj.CoreCompileInputs.cache
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.dll
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.pdb
+C:\ICE\InstrumentMonitor\SimulationEngine\obj\Debug\netcoreapp3.1\SimulationEngine.genruntimeconfig.cache
